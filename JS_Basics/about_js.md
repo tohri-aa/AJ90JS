@@ -4,7 +4,7 @@ ___
 ##### About JS
 ---
 
-- JS is a programming language designed to interact withh elements of webb pagges. It allows you add interactivity to a web page. 
+- JS is a programming language designed to interact with elements of web pages. It allows you add interactivity to a web page. 
 - JS is used with HTML & CSS to enhance a web page's functionality.
 - It is also known as the scripting language for web pages.
 - It can run on both web browsers andd servers.
