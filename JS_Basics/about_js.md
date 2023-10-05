@@ -1,10 +1,10 @@
-#### _Day 01_
+#### Day 01
 ___
 
-##### **About JS**
+##### About JS
 ---
 
-- JS is a programming language designed to interact withh elements of webb pagges. It allows you add interactivity to a web page. 
+- JS is a programming language designed to interact with elements of web pages. It allows you add interactivity to a web page. 
 - JS is used with HTML & CSS to enhance a web page's functionality.
 - It is also known as the scripting language for web pages.
 - It can run on both web browsers andd servers.
@@ -15,10 +15,10 @@ ___
 
 
 
-#### _Day 02_
+#### Day 02
 ---
 
-##### **Uses and Roles of JS in Web Development**
+##### Uses and Roles of JS in Web Development
 ---
 1. JS allows devs to add dynamic and interactive effect to a web page.
 2. It is also usedd to manipulate content of CSS, load data from remote servers and build entire apps in the browser that are called web apps.
@@ -26,19 +26,19 @@ ___
 4. It is used to build native apps and desktop apps using tools like react native, the iconic framework and electron. There's really nothhing one can't do when super good in writing JS.
 
 
-#### _Day 03_
+#### Day 03
 ___
 
-##### **Setting up the Developer Environment withh a Code Editor**
+##### Setting up the Developer Environment withh a Code Editor
 
 I caught up with Ajay's video on "Everything about Github Markdown, README file, Git and GitHub". I learnt about how to properly document on Github using markdown language. Documenting would bbe so muchh easier, all thanks to Ajay!
 
 
-#### _Day 04_
+#### Day 04
 ___
 I already have my development environment set up. I'd be using VSCode as my preferred IDE of choice.
 
-**Development Environment**
+Development Environment
 ___
 
 A development environment (DE) is a setup used by software developers to create and test software. It includes a text editor, compiler or interpreter, and other tools.
