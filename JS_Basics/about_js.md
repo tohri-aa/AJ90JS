@@ -77,14 +77,14 @@ Write your first "hello world" code
 ___
 
 ``` js
-alert('Hello World!')
+alert('Hello World!');
 ```
 
 ``` js
 let js = "fantastic";
 
 if (js === "fantastic"){
-    console.log("JS is fun!")
+    console.log("JS is fun!");
 } else {
     console.log("I don't have a choice but to learn!");
 ```
