@@ -64,4 +64,48 @@ To insert JavaScript into an HTML page, you use the `script` element. There are 
 
 >Reference an external JS code file.
 
+>Only the simplest scripts are put into HTML, more complex ones reside in separate files.
+
+>A single `script` tag can't have both the src attribute and code inside. You either choose an external `<script src='...>'` or a regular `<script>` with code.
+
+
+
+#### Day 5
+___
+
+Write your first "hello world" code
+___
+
+``` js
+alert('Hello World!')
+```
+
+``` js
+let js = "fantastic";
+
+if (js === "fantastic"){
+    console.log("JS is fun!")
+} else {
+    console.log("I don't have a choice but to learn!");
+```
+
+**Code structure**
+___
+- Statements: are regular syntax constructs and commands that perform actions. We can have as many statement as we want and they're separated a semi-colon.
+
+- Semi-colon: it is recommended to put semi-colon after each statement even if they're separated by new lines.
+
+- Comments: as code becomes complex, it is necessary to add comments which describes what the code and why. It can be added anywhere in the script and does not affec its execution as the engine ignores them. For one-line comment, use **//** and for multi-line comments, start with **/*** and end with ***/**.
+
+
+'use script'
+___
+
+- This looks like a string. When used at the top of a script, the whole script works the modern way. Once we enter strict mode, no going back.
+
+- Should we use 'use strict'?
+Modern JS supports classes and modules, advanced language structures, that enable 'use strict' automatically. So when your code is all in classes and modules, you may omit 'use strict'.
+
+
+
 
